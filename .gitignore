@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#model_file
+model_file/
 # C extensions
 *.so
 
